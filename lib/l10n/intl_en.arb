@@ -1,0 +1,13 @@
+{
+  "home_appTitle": "Home Screen",
+  "login_email": "Email",
+  "login_emailError": "Not a valid email address",
+  "login_password": "Password",
+  "login_passwordError": "Password needs to have at least 6 characters and 1 number",
+  "login_loginButtonTitle": "Log in",
+  "login_signUp": "Sign Up",
+  "register_firstName": "First name",
+  "register_firstNameError": "First name",
+  "register_lastName": "Last name",
+  "register_backToLogin1": "Back to Login"
+}
