@@ -9,5 +9,7 @@
   "register_firstName": "First name",
   "register_firstNameError": "First name",
   "register_lastName": "Last name",
-  "register_backToLogin1": "Back to Login"
+  "register_backToLogin1": "Back to Login",
+  "start_travel": "Start treval",
+  "start_service": "Start service",
 }

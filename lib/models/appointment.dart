@@ -17,7 +17,7 @@ class Appointment {
     try {
       var entity = Appointment();
       entity.id = json['id'];
-      entity.relatedWorkOrder = json['relatedWorkOrder'];
+      entity.relatedWorkOrder = json['relatedWorkorder'];
       entity.startDate = json['startDate'];
       entity.endDate = json['endDate'];
       return entity;
